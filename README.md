@@ -2,6 +2,11 @@
 
 A structured preparation tracker for the HCLTech campus hiring process.
 
+## Start here
+
+- **[Resume-based technical interview plan and daily checklist](resume-based-technical-interview-plan.md)** — tailored to the resume shared for preparation, including Java/DSA, SQL/DBMS, questions for all three projects, and a seven-day checklist.
+- [Java coding MCQs and technical fundamentals — 7-day crash plan](java-and-technical-crash-plan.md)
+
 ## Hiring pattern to prepare for
 
 According to HCLTech's official campus-hiring page, the AMP selection process describes:
@@ -43,7 +48,7 @@ HCLTech states that successful candidates start in Ascend and that further asses
 
 ### Track 4 — Interviews and resume
 - Prepare every skill and project mentioned on the resume.
-- Practice project deep-dives, strengths/weaknesses, teamwork, learning from mistakes, relocation/shift flexibility, and “Why HCLTech?”
+- Practice project deep-dives, strengths/weaknesses, learning from mistakes, teamwork, flexibility, and “Why HCLTech?”
 - Keep resume claims accurate and be ready to demonstrate each listed skill.
 
 ## Daily routine (about 2.5 hours)
